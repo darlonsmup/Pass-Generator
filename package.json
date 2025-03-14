@@ -1,5 +1,6 @@
 {
   "name": "gerador-senha",
+  "type": "module",
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
   "scripts": {
