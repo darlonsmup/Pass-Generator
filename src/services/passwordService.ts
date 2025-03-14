@@ -1,4 +1,4 @@
-export default function generatePass(){
+export function generatePass(){
     let password: string = ''
     let characters:string = 'AaBbCcÇDdEeFfGgHhIiJjLlMmNnOoPpQqRrSsTtUuVvXxZzWwYy!@#$%¨&*()_-+=§?{}[],.:;|\/°¬><1234567890'
     for(let i = 0 ;i < 8 ; i++){
